@@ -29,8 +29,8 @@ pip install api-ulp
 
 **1. Clone this repo**
 ```bash
-git clone https://github.com/rikixz/api-ulp.git
-cd api-ulp
+git clone https://github.com/blaxkmiradev/api-ulp-Search-Tool-.git
+cd api-ulp-Search-Tool
 ```
 
 **2. Install the dependency**
@@ -114,7 +114,7 @@ This project is licensed under the **MIT License**.
 > *"17 years old and already shipping real tools to PyPI. Just getting started."*
 
 📦 PyPI → [pypi.org/user/rikixz](https://pypi.org/user/rikixz)  
-🐙 GitHub → [github.com/rikixz](https://github.com/rikixz)
+🐙 GitHub → [github.com/blaxkmiradev](https://github.com/blaxkmiradev)
 
 </div>
 
@@ -122,6 +122,7 @@ This project is licensed under the **MIT License**.
 
 <div align="center">
 
-Made with ❤️ by **Kris** · 2025
+Made with ❤️ by **Kris** · 2026
+
 
 </div>
